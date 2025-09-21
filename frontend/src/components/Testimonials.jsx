@@ -12,7 +12,7 @@ const Testimonials = () => {
             O que nossos <span className="bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">clientes dizem</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Empresas e funcionários que já transformaram seus benefícios com a Reaply
+            Empresas e funcionários que já transformaram seus benefícios com a Flex Money
           </p>
         </div>
 
@@ -73,7 +73,7 @@ const Testimonials = () => {
               Junte-se a mais de 500 empresas
             </h3>
             <p className="text-gray-600 mb-6">
-              Que já transformaram seus benefícios corporativos com a Reaply
+              Que já transformaram seus benefícios corporativos com a Flex Money
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white px-8 py-3 rounded-lg font-semibold transform hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl">

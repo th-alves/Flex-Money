@@ -50,7 +50,7 @@ const Contact = () => {
             Vamos conversar sobre seu <span className="bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">negócio</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Entre em contato conosco e descubra como a Reaply pode transformar os benefícios da sua empresa
+            Entre em contato conosco e descubra como a Flex Money pode transformar os benefícios da sua empresa
           </p>
         </div>
 
@@ -174,7 +174,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
-                    <p className="text-gray-600">contato@reaply.com.br</p>
+                    <p className="text-gray-600">contato@flexmoney.com.br</p>
                     <p className="text-sm text-gray-500">Resposta em até 24h</p>
                   </div>
                 </div>

@@ -16,7 +16,7 @@ const HowItWorks = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-            Como a <span className="bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">Reaply</span> funciona?
+            Como a <span className="bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">Flex Money</span> funciona?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Em apenas 4 passos simples, transformamos a gestão de benefícios da sua empresa

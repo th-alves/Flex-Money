@@ -17,7 +17,7 @@ const Footer = () => {
                   <Zap className="w-6 h-6 text-white" />
                 </div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
-                  Reaply
+                  Flex Money
                 </span>
               </div>
               <p className="text-gray-300 mb-6 max-w-md leading-relaxed">
@@ -90,7 +90,7 @@ const Footer = () => {
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-emerald-400 flex-shrink-0" />
-                  <span className="text-gray-300">contato@reaply.com.br</span>
+                  <span className="text-gray-300">contato@flexmoney.com.br</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-emerald-400 flex-shrink-0" />
@@ -114,7 +114,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-400 text-sm">
-              © {currentYear} Reaply. Todos os direitos reservados.
+              © {currentYear} Flex Money. Todos os direitos reservados.
             </div>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-emerald-400 transition-colors duration-200">

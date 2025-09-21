@@ -70,7 +70,7 @@ const Hero = () => {
 
             {/* Trust indicators */}
             <div className="mt-10 pt-8 border-t border-gray-200">
-              <p className="text-sm text-gray-500 mb-4">Empresas que confiam na Reaply:</p>
+              <p className="text-sm text-gray-500 mb-4">Empresas que confiam na Flex Money:</p>
               <div className="flex items-center space-x-8 opacity-60">
                 <div className="bg-gray-200 h-8 w-24 rounded"></div>
                 <div className="bg-gray-200 h-8 w-24 rounded"></div>
@@ -85,7 +85,7 @@ const Hero = () => {
             <div className="relative z-10">
               <img
                 src="https://images.unsplash.com/photo-1748439435495-722cc1728b7e"
-                alt="Dashboard Reaply"
+                alt="Dashboard Flex Money"
                 className="w-full h-auto rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-500"
               />
               
